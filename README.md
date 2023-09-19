@@ -1,7 +1,7 @@
 ![Kirby](https://gaymingmag.com/wp-content/uploads/2023/03/kirbyyy.png)
 
 # Project Title
-MARTHA MARTHA MARTHa
+MARTHA MARTHA MARTHA
 ## Data Overview
 This project used data from the titanic dataset to analyze survival rates. The data had 13 colums and 300 observations.
 
